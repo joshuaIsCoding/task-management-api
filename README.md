@@ -38,4 +38,4 @@ A backend REST API for managing user tasks with authentication and authorization
 ### Running Locally
 1. Clone the repository
    ```bash
-   git clone https://github.com/YOUR_USERNAME/task-management-api.git
+   git clone https://github.com/joshuaIsCoding/task-management-api.git
