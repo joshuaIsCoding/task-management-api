@@ -1,4 +1,9 @@
-/target
-/.idea
+# Maven build output
+/target/
+
+# IntelliJ IDEA
+/.idea/
 *.iml
+
+# Environment variables
 .env
