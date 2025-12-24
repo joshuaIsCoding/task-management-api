@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: Task-management-api
+
+  datasource:
+    url: jdbc:postgresql://localhost:5434/taskmanagement
+    username: postgres
+    password: allforone
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+        hibernate:
+          format_sql: true
